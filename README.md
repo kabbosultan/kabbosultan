@@ -8,6 +8,7 @@
 <h2> Data Analytics Projects:</h2>
 
 - <b>[MTA ACE Program Analysis](https://github.com/kabbosultan/MTA-ACE-Program-Analysis)</b>
+- <b>[BikeShare Statistical Analysis](https://github.com/kabbosultan/BikeShare-Analytics/tree/main)</b>
 - <b>[2008 Financial Crash Analysis](https://github.com/robinflew/2008-Financial-Crash-Analysis)</b>
 - <b>[Digital Marketing Click Prediction Model](https://github.com/robinflew/Digital-Marketing-Click-Prediction-Model#)</b>
 - <b>[Theme Park Analysis](https://github.com/kabbosultan/Theme-Park-Analytics)</b>
