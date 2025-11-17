@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kabbo!<br/><a href="https://www.linkedin.com/in/kabbo-sultan-27692729b/">Cybersecurity Consultant</a>, <a href="https://www.linkedin.com/in/kabbo-sultan-27692729b/">Data Analyst</a> <a href="https://www.linkedin.com/in/kabbo-sultan-27692729b/">& Software Engineer</a></h1>
+<h1>Hi, I'm Kabbo!<br/><a href="https://www.linkedin.com/in/kabbo-sultan-27692729b/">Cybersecurity Data Consultant</a> <a href="https://www.linkedin.com/in/kabbo-sultan-27692729b/"> & Software Engineer</a></h1>
 
 <h2> Cybersecurity Projects:</h2>
 
